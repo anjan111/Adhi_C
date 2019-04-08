@@ -1,0 +1,12 @@
+# operator
+
+---> which are used for to do the operations on daata
+
+0. Assignment 
+1. comma operator
+2. Arithmetic
+3. Relational
+4. Logical
+5. bitwise 
+6. Ternary
+7. sizeof operator
